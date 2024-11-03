@@ -1,13 +1,6 @@
-name = input()
+cities = {} # This is a dictionary 
+towns = [] # This is a list
 
 
-print("Nice to meet toy" +  name)
-UnicodeTranslateError
-name = input()
-name = input()
-name = input()
-name = input()
-name = input()
-name = input()
-name = input()
-name = input()
+cities["Roma"] = 300
+print(cities["Roma"])
